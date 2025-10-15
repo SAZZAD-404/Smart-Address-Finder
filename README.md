@@ -13,7 +13,7 @@
       <p style="color:#555; font-size: 14px; margin-bottom: 20px;">
         Professional tools for IP lookup, address finding, email name extraction, and phone number generation.
       </p>
-      <a href="https://sazzad-404.github.io/New-User-Agent-Genarate/" target="_blank"
+      <a href="https://sazzad-404.github.io/Smart-Address-Finder/" target="_blank"
          style="
            display:inline-block; 
            padding:12px 25px; 
